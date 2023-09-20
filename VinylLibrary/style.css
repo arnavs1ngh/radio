@@ -1,0 +1,413 @@
+.vinyl-library {
+  background-color: #101010;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.vinyl-library .div {
+  background-color: #101010;
+  overflow: hidden;
+  width: 1440px;
+  height: 1600px;
+  position: relative;
+}
+
+.vinyl-library .footer {
+  width: 1442px;
+  height: 61px;
+  top: 1539px;
+  background-color: transparent;
+  position: absolute;
+  left: 0;
+}
+
+.vinyl-library .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 61px;
+}
+
+.vinyl-library .footer-bar {
+  width: 1440px;
+  height: 60px;
+  top: 1px;
+  background-color: #d9d9d9;
+  position: absolute;
+  left: 0;
+}
+
+.vinyl-library .imperial-college {
+  position: absolute;
+  width: 1440px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40.6px;
+}
+
+.vinyl-library .overlap {
+  position: absolute;
+  width: 1355px;
+  height: 171px;
+  top: 168px;
+  left: 42px;
+}
+
+.vinyl-library .content {
+  position: absolute;
+  width: 1355px;
+  height: 78px;
+  top: 0;
+  left: 0;
+}
+
+.vinyl-library .overlap-2 {
+  position: relative;
+  width: 1353px;
+  height: 78px;
+}
+
+.vinyl-library .main-underline {
+  position: absolute;
+  width: 1350px;
+  height: 1px;
+  top: 77px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.vinyl-library .text-wrapper {
+  position: absolute;
+  width: 824px;
+  top: 0;
+  left: 0;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: 77.7px;
+}
+
+.vinyl-library .p {
+  position: absolute;
+  width: 1350px;
+  height: 106px;
+  top: 65px;
+  left: 3px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.vinyl-library .div-wrapper {
+  position: absolute;
+  width: 1386px;
+  height: 743px;
+  top: 356px;
+  left: 24px;
+  background-color: #d9d9d9;
+}
+
+.vinyl-library .text-wrapper-2 {
+  position: absolute;
+  height: 77px;
+  top: 194px;
+  left: 308px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.vinyl-library .header {
+  top: 24px;
+  position: absolute;
+  width: 1440px;
+  height: 143px;
+  left: 0;
+}
+
+.vinyl-library .overlap-3 {
+  position: relative;
+  height: 143px;
+}
+
+.vinyl-library .header-2 {
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  height: 143px;
+  left: 0;
+}
+
+.vinyl-library .play-bar {
+  position: absolute;
+  width: 1442px;
+  height: 47px;
+  top: 96px;
+  left: 0;
+}
+
+.vinyl-library .play {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: 8px;
+  left: 157px;
+}
+
+.vinyl-library .text-wrapper-3 {
+  position: absolute;
+  width: 197px;
+  height: 9px;
+  top: 16px;
+  left: 203px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5eddb;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vinyl-library .volume-slider {
+  position: absolute;
+  width: 296px;
+  height: 36px;
+  top: 5px;
+  left: 1132px;
+}
+
+.vinyl-library .DIVIDER-TOP {
+  top: -1px;
+  position: absolute;
+  width: 1440px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.vinyl-library .DIVIDER-bottom {
+  top: 46px;
+  position: absolute;
+  width: 1440px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.vinyl-library .type-logo {
+  position: absolute;
+  width: 248px;
+  height: 47px;
+  top: 0;
+  left: 18px;
+}
+
+.vinyl-library .TITLE {
+  position: relative;
+  width: 242px;
+  height: 47px;
+  left: 6px;
+}
+
+.vinyl-library .radio {
+  position: absolute;
+  width: 129px;
+  height: 28px;
+  top: 9px;
+  left: 113px;
+}
+
+.vinyl-library .union {
+  position: absolute;
+  width: 95px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.vinyl-library .navbar {
+  display: inline-flex;
+  height: 36px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 0;
+  left: 423px;
+}
+
+.vinyl-library .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5eddb;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vinyl-library .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #e8362f;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vinyl-library .frame {
+  display: flex;
+  width: 273px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 23px;
+  position: absolute;
+  top: 44px;
+  left: 1143px;
+}
+
+.vinyl-library .overlap-group-wrapper {
+  position: relative;
+  width: 38px;
+  height: 36px;
+}
+
+.vinyl-library .overlap-group-2 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  background-color: #d9d9d9;
+}
+
+.vinyl-library .text-wrapper-6 {
+  position: absolute;
+  height: 36px;
+  top: 0;
+  left: 3px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vinyl-library .tw {
+  position: relative;
+  width: 39px;
+  height: 36px;
+}
+
+.vinyl-library .overlap-4 {
+  position: relative;
+  width: 37px;
+  height: 36px;
+}
+
+.vinyl-library .rectangle {
+  top: 0;
+  left: 1px;
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background-color: #d9d9d9;
+}
+
+.vinyl-library .text-wrapper-7 {
+  position: absolute;
+  height: 36px;
+  top: 0;
+  left: 0;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vinyl-library .sp {
+  position: relative;
+  width: 38px;
+  height: 39px;
+  margin-right: -2px;
+}
+
+.vinyl-library .overlap-5 {
+  position: relative;
+  width: 36px;
+  height: 39px;
+}
+
+.vinyl-library .rectangle-2 {
+  top: 3px;
+  left: 0;
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background-color: #d9d9d9;
+}
+
+.vinyl-library .live-sign {
+  position: absolute;
+  width: 105px;
+  height: 36px;
+  top: 101px;
+  left: 24px;
+}
+
+.vinyl-library .text-wrapper-8 {
+  position: absolute;
+  width: 73px;
+  height: 29px;
+  top: 2px;
+  left: 32px;
+  font-family: "Scope Trial-Medium", Helvetica;
+  font-weight: 500;
+  color: #e8362f;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.vinyl-library .live-button {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #e8362f;
+  border-radius: 16px;
+}
